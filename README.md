@@ -1,18 +1,20 @@
 
 # **PockeTerm II**
 
-![cropped-479x357](https://user-images.githubusercontent.com/121696513/225980421-58257649-3b77-4322-a3e6-8b57ef11e2f3.jpg)
+![PT_final trimmed-smaller](https://user-images.githubusercontent.com/121696513/226185154-53f5fab6-533e-4c69-8979-7ae500887c44.jpg)
+
 <br>
-PockeTerm II Prototype
+<br>
 
 
 What is the PockeTerm? The PockeTerm is a VT-100 compatible terminal in a single board format that utilizes 640 x 480 VGA for Video display and a PS/2 port for the keyboard. Users have the ability to change text colors on a black background as well as other features. This board was produced and sold by Briel Computers from 2007 until production ended in 2016. Now, a newer version is open source to share my work. No more needing a laptop or computer with serial interface and a terminal program. Dedicate a 80x25 VT100 compatible terminal to your system. 
 
 # 2023 The PockeTerm II Open Source Project
 
-The PockeTerm II is an improved version of my original PockeTerm design from 2007. Using a low cost serial to USB interface in place of one of the serial ports, not only modernized the connection to a PC but gave a reliable power source as well.
+The PockeTerm II is a refreshed version of my original PockeTerm design from 2007. Using a low cost serial to USB interface in place of one of the serial ports, not only modernized the connection to a PC but gave a reliable power source as well.
 
-Tested on vintage hardware. As well as testing on a modern computer system, I have also tested this on my personal Altair 8800. 
+# Tested on vintage hardware 
+As well as testing on a modern computer system, I have also tested this on my personal Altair 8800. 
 
 ## Features included on the PockeTerm II
 
@@ -45,10 +47,10 @@ If the software did not find your PockeTerm, please visit Silicon Labs web site 
 One you have connection to your PockeTerm II, and the PockeTermV.905 firmware ready, simply press F11 to program.
 
 ## Testing:
+![image](https://user-images.githubusercontent.com/121696513/226185484-f4fb12a3-d28e-4ad2-b7be-2b2d9c5d2d3b.png)
 
-![image](https://user-images.githubusercontent.com/121696513/225981133-48f82eda-5572-4e42-b522-66041127cb3e.png)
 <br>
-You can test your PockeTerm II without connecting it to a host computer. Simply place the jumper shunts sideways across the jumpers in Standard Mode and that will act as a loop back for testing. The image above shows jumpers in null modem setting. 
+You can test the PockeTerm II without connecting it to a host computer. Simply place the jumper shunts sideways across the jumpers in Standard Mode and that will act as a loop back for testing. The image above shows jumpers in null modem setting. 
 
 Now anything that you type on the keyboard should appear on the VGA screen. 
 
