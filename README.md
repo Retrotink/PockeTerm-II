@@ -6,6 +6,11 @@
 <br>
 <br>
 
+# Build a PockeTerm at the VCFSW June 24
+<br>
+Come out to the Vintage Computer Festival Southwest (http://vcfsw.org)  and build a PockeTerm II kit in a classroom setting. The cost for the kits are $50 (due at the start of the workshop) and the workshop is free with admission to the VCFSW event. 
+The date of the workshop is Saturday June 24th at 10am. Space is limited so rsvp to vbriel@yahoo.com
+<br>
 
 What is the PockeTerm? The PockeTerm is a VT-100 compatible terminal in a single board format that utilizes 640 x 480 VGA for Video display and a PS/2 port for the keyboard. Users have the ability to change text colors on a black background as well as other features. This board was produced and sold by Briel Computers from 2007 until production ended in 2016. Now, a newer version is open source to share my work. No more needing a laptop or computer with serial interface and a terminal program. Dedicate a 80x25 VT100 compatible terminal to your system. 
 
