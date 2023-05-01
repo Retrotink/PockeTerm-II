@@ -21,7 +21,7 @@ The date of the workshop is Saturday June 24th at 10am. Space is limited so rsvp
 <br>
 
 ## What is the PockeTerm? 
-The PockeTerm is a VT-100 compatible terminal in a single board format that utilizes 640 x 480 VGA for Video display and a PS/2 port for the keyboard. Users have the ability to change text colors on a black background as well as other features. This board was produced and sold by Briel Computers from 2007 until production ended in 2016. Now, a newer version is open source to share my work. No more needing a laptop or computer with serial interface and a terminal program. Dedicate a 80x25 VT100 compatible terminal to your system. 
+The PockeTerm is a VT-100 compatible terminal in a 3.5" X 2.5" small single board format that utilizes 640 x 480 VGA for Video display and a PS/2 port for the keyboard. Users have the ability to change text colors on a black background as well as other features. This board was produced and sold by Briel Computers from 2007 until production ended in 2016. Now, a newer version is open source to share my work. No more needing a laptop or computer with serial interface and a terminal program. Dedicate a 80x25 VT100 compatible terminal to your system. 
 
 ![image](https://user-images.githubusercontent.com/121696513/235483199-bffefcc8-7a4b-446e-bcb0-2f6c526d24f8.png)
 
