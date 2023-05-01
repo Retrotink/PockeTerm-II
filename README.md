@@ -45,7 +45,7 @@ Compact size: Footprint is only 3.5" X 2.5" using standard through hole componen
 
 Set and store options such as BAUD rate, color, bits without having to set at every power up.
 
-## Building from the included files:
+## Building your own from the included files:
 
 Gerber files are included so you can simply order your own boards. All layers, silkscreen are there.
 A PDF showing the schematic is included if you wish to make your own layout or make changes.
@@ -74,6 +74,93 @@ Now anything that you type on the keyboard should appear on the VGA screen.
 Once testing is complete, you can configure the PockeTerm II settings to fit your host machine settings. Make sure you put your jumper shunts back to STD or NULL.
 
 Attach the PockeTerm to your host computer with power off. Once the serial connector is on, you can apply power to the terminal then the host machine.
+
+# Soldering the PockeTerm II
+
+Step 1: The Resistors
+
+Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. 
+
+100 ohm - brown black brown (QTY2)
+240 ohm – red yellow brown (QTY 6)
+470 ohm – yellow violet brown (QTY 3)
+1K ohm – brown black red (QTY 1)
+3.3K ohm – orange orange red (QTY 1)
+10K ohm – brown black orange (QTY 1)
+
+Bend the metal wires at a 90 degree angle on each side of the resistor body. Place the resistor into the resistor location until it is flush with the PCB. Turn the board over holding the resistor in its place and bend the wires outward just slightly so the resistor can not back out of the holes. While the bottom of the board is facing up flat on your workspace, solder each of the two wires on the resistor. Make sure your solder stays only on the resistor wire and the hole. Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.
+
+Step 2: The crystal
+
+The 5MHZ crystal is not polarized and can be installed in either direction. Install flush with the PCB, hold the crystal and bend the leads apart slightly to keep the crystal from falling out. Turn the board over and solder the leads. Cut the excess lead length off flush with the PCB.
+
+Step 3: The IC sockets
+
+On the shorter edge of the socket is a notch showing you the direction to install the socket. Place the 40 pin large socket flush onto the PCB. Holding the socket, flip the board over and set on your workspace. Solder 2 pins on opposite corners and turn the board over and make sure the socket is flush with the PCB. Heat and adjust if needed. Solder the other 38 pins. Check for completeness of all the pins. If you accidentally install the socket backwards, it will still work just correctly. Just remember when you go to install the chips that the notch is at the wrong end. Repeat for the other 2 sockets.
+
+Step 4: The power switch
+
+Install switch into its location. Make sure the slide part of the switch faces away from the PCB. When flush with the PCB, turn over holding the switch from falling out and place on your workspace. Solder down all 5 posts making sure no solder flows across to the other tabs. 
+
+Step 5: The USB PC Serial Power Connector 
+
+The USB Power connector has 6 pins and when placed onto the PockeTerm II board will be slightly elevated on the front edge. Make sure the connector is completely inserted before beginning soldering
+
+Step 6: The transistor 
+
+The transistor is labeled 2N4401 and is black with 3 pins, a half circle shape with one flat side. On the PCB match the shape outline with the transistor and install the pins through the holes. You may need to spread the pins apart to make them line up correctly with the board. Bend the two outer pins a little so the transistor will not fall out and turn the board over. Solder the 3 pins of the transistor and cut the excess lead off.
+
+Step 7: .1uF capacitors
+
+Install the two .1uF (C1-C2) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
+
+Step 8: .01uF capacitor
+
+Install the .01uF capacitor C3 into its location. The capacitor is labeled 103 and is not polarized so it can be installed either direction. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut the excess lead length.
+
+NOTE: We will solder the C4-C8 later on, do not install them yet.
+
+Step 9: Jumper connectors
+
+Place the 4X2 cable select jumper posts into its location. Place into the PCB and while holding the jumper, turn the PCB over and place on your workspace. Solder into place.You may want to solder only one post and turn over and inspect that it is flush. You can heat the post and adjust to get it flush on the PCB. Install the jumpers into either the STD or NULL locations vertically. This determines what type of cable you have. You can always change them later.
+
+Step 10: LED
+
+The LED is polarized and caution must be taken to install correctly. The easiest way to tell the + lead of an LED is that one lead is longer than the other. Place that lead into the + pad on the PCB (it is a square pad) and push the LED flush onto the PCB. Next, bend the tabs apart slightly so the LED will not fall out when you turn the board over. Turn over the PCB and solder the leads onto the PCB. Cut the excess leads flush with the board.
+
+Step 11: DB-9 Serial connector
+
+Place the 9 pin connector into position on the board. The 2 rows of pins should line up and the retaining tabs should fit snug. Solder the pin rows and the outer retaining tabs to hold the connector securely to the pcb.
+
+Step 12: VGA connector
+
+The VGA is nearly the same as the DB9 serial port except it has 3 rows of pins. Insert flush with PCB, turn and solder the inside row first, followed by the outer 2 rows. Check your work, and then solder the support tabs down.
+
+Step 13: 10uF electrolytic capacitors
+
+The capacitors C4-C8 are polarized and must be installed correctly. They are cylinder shaped and both leads protrude from the same side and are labeled 10uF. There are two ways to tell the + and - leads. First, looking at the leads, the + is longer than the – lead. Secondly, there is a large white arrow pointing to the - lead. Install flush with the PCB and bend the two leads slightly apart from one another. Turn the board over and solder onto the PCB. Cut the excess lead and repeat for the other 2 capacitors.
+
+Step 14: PS/2 keyboard connector
+
+Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
+
+Step 15: The cleanup
+
+Before you power up your board, wash off the excess flux and check for any missed solder connections. I like to clean with plain water and a soft tooth brush. Run under the tap water for a minute washing off excess flux. Dry immediately with a blow dryer on low heat. You can also use canned or compressed air in place of blow dryer.
+
+Step 16: Initial power test
+
+Plug in your USB cable to a USB power supply or PC port. Turn on the board and make sure that your power LED comes on. 
+
+Step 17: Next Test
+
+Install the IC chips; connect a keyboard and VGA monitor. Power on your PockeTerm and you should get text at the bottom of your screen. You can program your settings by pressing CTRL and Fx at the same time to cycle through all the options. Your settings are automatically saved for when you power off.
+
+Step 18: Final Test
+
+Place the Jumper shunts sideways under STD mode. This sets the terminal in loopback mode. Power up the PockeTerm II and anything you type on the PS/2 keyboard will display on the terminal.
+
+You are now ready to attach the PockeTerm II to your Host computer and begin using your terminal. 
 
 # WARNING: Create at your own risk
 
