@@ -6,9 +6,11 @@
 <br>
 <br>
 
+![vcfsw](https://user-images.githubusercontent.com/121696513/235480835-606152f9-d420-4610-b162-61d646eeeedf.jpg)
 
 <br>
 <br>
+
 # Build a PockeTerm at the VCFSW
 # June 24, 2023 University of Texas Richardson
 <br>
