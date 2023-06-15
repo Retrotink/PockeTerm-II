@@ -86,8 +86,9 @@ Attach the PockeTerm to your host computer with power off. Once the serial conne
 # Soldering the PockeTerm II
 
 Step 1: The Resistors<br>
-
-Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. 
+![resistor](https://github.com/Retrotink/PockeTerm-II/assets/121696513/01a7b73d-7fd2-4fa3-94ff-4ebca1492b9e)
+<br>
+Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.
 
 100 ohm - brown black brown (QTY2)<br>
 240 ohm – red yellow brown (QTY 6)<br>
