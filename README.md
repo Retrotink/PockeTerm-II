@@ -75,6 +75,14 @@ Once testing is complete, you can configure the PockeTerm II settings to fit you
 
 Attach the PockeTerm to your host computer with power off. Once the serial connector is on, you can apply power to the terminal then the host machine.
 
+# Bill Of Materiels
+
+![bom](https://github.com/Retrotink/PockeTerm-II/assets/121696513/68e3075c-7a53-4e94-9146-bde8386f5e00)
+
+[github_bom.xls](https://github.com/Retrotink/PockeTerm-II/files/11759871/github_bom.xls)
+
+
+
 # Soldering the PockeTerm II
 
 Step 1: The Resistors
