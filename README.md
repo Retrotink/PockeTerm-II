@@ -85,16 +85,16 @@ Attach the PockeTerm to your host computer with power off. Once the serial conne
 
 # Soldering the PockeTerm II
 
-Step 1: The Resistors
+Step 1: The Resistors<br>
 
 Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. 
 
-100 ohm - brown black brown (QTY2)
-240 ohm – red yellow brown (QTY 6)
-470 ohm – yellow violet brown (QTY 3)
-1K ohm – brown black red (QTY 1)
-3.3K ohm – orange orange red (QTY 1)
-10K ohm – brown black orange (QTY 1)
+100 ohm - brown black brown (QTY2)<br>
+240 ohm – red yellow brown (QTY 6)<br>
+470 ohm – yellow violet brown (QTY 3)<br>
+1K ohm – brown black red (QTY 1)<br>
+3.3K ohm – orange orange red (QTY 1)<br>
+10K ohm – brown black orange (QTY 1)<br>
 
 Bend the metal wires at a 90 degree angle on each side of the resistor body. Place the resistor into the resistor location until it is flush with the PCB. Turn the board over holding the resistor in its place and bend the wires outward just slightly so the resistor can not back out of the holes. While the bottom of the board is facing up flat on your workspace, solder each of the two wires on the resistor. Make sure your solder stays only on the resistor wire and the hole. Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.
 
