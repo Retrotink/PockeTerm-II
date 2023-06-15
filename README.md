@@ -149,29 +149,38 @@ Step 9: Jumper connectors <br>
 Place the 4X2 cable select jumper posts into its location. Place into the PCB and while holding the jumper, turn the PCB over and place on your workspace. Solder into place.You may want to solder only one post and turn over and inspect that it is flush. You can heat the post and adjust to get it flush on the PCB. Install the jumpers into either the STD or NULL locations vertically. This determines what type of cable you have. You can always change them later.
 
 Step 10: LED<br>
+![led](https://github.com/Retrotink/PockeTerm-II/assets/121696513/ab6c087c-7701-4c61-ad71-2bfc178b55a5)
 
 
 The LED is polarized and caution must be taken to install correctly. The easiest way to tell the + lead of an LED is that one lead is longer than the other. Place that lead into the + pad on the PCB (it is a square pad) and push the LED flush onto the PCB. Next, bend the tabs apart slightly so the LED will not fall out when you turn the board over. Turn over the PCB and solder the leads onto the PCB. Cut the excess leads flush with the board.
 
-Step 11: DB-9 Serial connector
+Step 11: DB-9 Serial connector<br>
+
+![db9](https://github.com/Retrotink/PockeTerm-II/assets/121696513/88f96161-c46a-4f7f-b1a6-cd9a67900f27)
 
 Place the 9 pin connector into position on the board. The 2 rows of pins should line up and the retaining tabs should fit snug. Solder the pin rows and the outer retaining tabs to hold the connector securely to the pcb.
 
-Step 12: VGA connector
+Step 12: VGA connector<br>
+
+![vga](https://github.com/Retrotink/PockeTerm-II/assets/121696513/09b62c6e-56cd-4fdc-ab0c-45e3034e3894)
 
 The VGA is nearly the same as the DB9 serial port except it has 3 rows of pins. Insert flush with PCB, turn and solder the inside row first, followed by the outer 2 rows. Check your work, and then solder the support tabs down.
 
-Step 13: 10uF electrolytic capacitors
+Step 13: 10uF electrolytic capacitors<br>
+
+![cap10](https://github.com/Retrotink/PockeTerm-II/assets/121696513/c7e23a6e-7e4a-4e91-b1af-82b1a7c92350)
 
 The capacitors C4-C8 are polarized and must be installed correctly. They are cylinder shaped and both leads protrude from the same side and are labeled 10uF. There are two ways to tell the + and - leads. First, looking at the leads, the + is longer than the – lead. Secondly, there is a large white arrow pointing to the - lead. Install flush with the PCB and bend the two leads slightly apart from one another. Turn the board over and solder onto the PCB. Cut the excess lead and repeat for the other 2 capacitors.
 
-Step 14: PS/2 keyboard connector
+Step 14: PS/2 keyboard connector<br>
 
-Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
+![ps2](https://github.com/Retrotink/PockeTerm-II/assets/121696513/4714c28a-69ef-4dac-a793-3360bb58dc8d)
+
+Install this part slow and carefully. If the pins are not lined up, they will push back and not go through the pcb. Place connector flush onto the PCB and hold while turning over to keep it from falling out. Place on workspace and solder onto the board. You may wish to solder just the large tab first and check to make sure it is flush before soldering the other pins down.
 
 Step 15: The cleanup
 
-Before you power up your board, wash off the excess flux and check for any missed solder connections. I like to clean with plain water and a soft tooth brush. Run under the tap water for a minute washing off excess flux. Dry immediately with a blow dryer on low heat. You can also use canned or compressed air in place of blow dryer.
+Before you power up your board, it is recommended that you wash off the excess flux and check for any missed solder connections. I like to clean with plain water and a soft tooth brush. Run under the tap water for a minute washing off excess flux. Dry immediately with a blow dryer on low heat. You can also use canned or compressed air in place of blow dryer.
 
 Step 16: Initial power test
 
