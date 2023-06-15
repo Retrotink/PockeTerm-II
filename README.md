@@ -111,9 +111,10 @@ Step 3: The IC sockets<br>
 
 On the shorter edge of the socket is a notch showing you the direction to install the socket. Place the 40 pin large socket flush onto the PCB. Holding the socket, flip the board over and set on your workspace. Solder 2 pins on opposite corners and turn the board over and make sure the socket is flush with the PCB. Heat and adjust if needed. Solder the other 38 pins. Check for completeness of all the pins. If you accidentally install the socket backwards, it will still work just correctly. Just remember when you go to install the chips that the notch is at the wrong end. Repeat for the other 2 sockets.
 
-Step 4: The power switch
+Step 4: The power switch<br>
+![switch](https://github.com/Retrotink/PockeTerm-II/assets/121696513/642d63f3-f5c4-475c-b182-04beb929ad56)
 
-Install switch into its location. Make sure the slide part of the switch faces away from the PCB. When flush with the PCB, turn over holding the switch from falling out and place on your workspace. Solder down all 5 posts making sure no solder flows across to the other tabs. 
+Install switch into its location. Make sure the slide part of the switch faces away from the PCB. When flush with the PCB, turn over holding the switch from falling out and place on your workspace. Solder down all 6 posts making sure no solder flows across to the other tabs. Then solder the outter support posts.
 
 Step 5: The USB PC Serial Power Connector 
 
