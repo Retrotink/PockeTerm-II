@@ -99,7 +99,9 @@ Resistors are not polarized so they can be installed either direction. I like to
 
 Bend the metal wires at a 90 degree angle on each side of the resistor body. Place the resistor into the resistor location until it is flush with the PCB. Turn the board over holding the resistor in its place and bend the wires outward just slightly so the resistor can not back out of the holes. While the bottom of the board is facing up flat on your workspace, solder each of the two wires on the resistor. Make sure your solder stays only on the resistor wire and the hole. Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.
 
-Step 2: The crystal
+Step 2: The crystal<br>
+![crystal](https://github.com/Retrotink/PockeTerm-II/assets/121696513/4f4d3fd7-b99a-4a5b-a0d3-b7fdda44819b)
+
 
 The 5MHZ crystal is not polarized and can be installed in either direction. Install flush with the PCB, hold the crystal and bend the leads apart slightly to keep the crystal from falling out. Turn the board over and solder the leads. Cut the excess lead length off flush with the PCB.
 
