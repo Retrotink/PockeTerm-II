@@ -105,7 +105,9 @@ Step 2: The crystal<br>
 
 The 5MHZ crystal is not polarized and can be installed in either direction. Install flush with the PCB, hold the crystal and bend the leads apart slightly to keep the crystal from falling out. Turn the board over and solder the leads. Cut the excess lead length off flush with the PCB.
 
-Step 3: The IC sockets
+Step 3: The IC sockets<br>
+
+![socket](https://github.com/Retrotink/PockeTerm-II/assets/121696513/30c07d55-07e7-40dc-ac42-17c071c2a6b0)
 
 On the shorter edge of the socket is a notch showing you the direction to install the socket. Place the 40 pin large socket flush onto the PCB. Holding the socket, flip the board over and set on your workspace. Solder 2 pins on opposite corners and turn the board over and make sure the socket is flush with the PCB. Heat and adjust if needed. Solder the other 38 pins. Check for completeness of all the pins. If you accidentally install the socket backwards, it will still work just correctly. Just remember when you go to install the chips that the notch is at the wrong end. Repeat for the other 2 sockets.
 
