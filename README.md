@@ -116,29 +116,40 @@ Step 4: The power switch<br>
 
 Install switch into its location. Make sure the slide part of the switch faces away from the PCB. When flush with the PCB, turn over holding the switch from falling out and place on your workspace. Solder down all 6 posts making sure no solder flows across to the other tabs. Then solder the outter support posts.
 
-Step 5: The USB PC Serial Power Connector 
+Step 5: The USB PC Serial Power Connector <br>
+![serial-usb](https://github.com/Retrotink/PockeTerm-II/assets/121696513/dded9457-0686-4fb2-b035-356d23ba6e5a)
+
 
 The USB Power connector has 6 pins and when placed onto the PockeTerm II board will be slightly elevated on the front edge. Make sure the connector is completely inserted before beginning soldering
 
-Step 6: The transistor 
+Step 6: The transistor <br>
+![transistor](https://github.com/Retrotink/PockeTerm-II/assets/121696513/5f2d2f0a-00b0-4b07-baf8-7dfe22e6a85a)
+
 
 The transistor is labeled 2N4401 and is black with 3 pins, a half circle shape with one flat side. On the PCB match the shape outline with the transistor and install the pins through the holes. You may need to spread the pins apart to make them line up correctly with the board. Bend the two outer pins a little so the transistor will not fall out and turn the board over. Solder the 3 pins of the transistor and cut the excess lead off.
 
-Step 7: .1uF capacitors
+Step 7: .1uF capacitors<br>
+
+![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
 
 Install the two .1uF (C1-C2) caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut away the excess lead length.
 
-Step 8: .01uF capacitor
+Step 8: .01uF capacitor <br>
+![cap 01](https://github.com/Retrotink/PockeTerm-II/assets/121696513/ffa5ab7a-6fa5-4246-9df7-4ea65dda23fc)
+
 
 Install the .01uF capacitor C3 into its location. The capacitor is labeled 103 and is not polarized so it can be installed either direction. Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. Solder the leads onto the PCB and cut the excess lead length.
 
 NOTE: We will solder the C4-C8 later on, do not install them yet.
 
-Step 9: Jumper connectors
+Step 9: Jumper connectors <br>
+
+![jumper pins](https://github.com/Retrotink/PockeTerm-II/assets/121696513/d3626de5-c1de-4c55-9a23-ae6caffa0935)
 
 Place the 4X2 cable select jumper posts into its location. Place into the PCB and while holding the jumper, turn the PCB over and place on your workspace. Solder into place.You may want to solder only one post and turn over and inspect that it is flush. You can heat the post and adjust to get it flush on the PCB. Install the jumpers into either the STD or NULL locations vertically. This determines what type of cable you have. You can always change them later.
 
-Step 10: LED
+Step 10: LED<br>
+
 
 The LED is polarized and caution must be taken to install correctly. The easiest way to tell the + lead of an LED is that one lead is longer than the other. Place that lead into the + pad on the PCB (it is a square pad) and push the LED flush onto the PCB. Next, bend the tabs apart slightly so the LED will not fall out when you turn the board over. Turn over the PCB and solder the leads onto the PCB. Cut the excess leads flush with the board.
 
