@@ -198,4 +198,4 @@ You are now ready to attach the PockeTerm II to your Host computer and begin usi
 
 # WARNING: Create at your own risk
 
-You understand and agree that I am not be liable to you or any third party for any damage to equipment or harm that may happen as a result of making this project. Create at your own risk.
+You understand and agree that I am not liable to you or any third party for any damage to equipment or harm that may happen as a result of making this project. Create at your own risk.
