@@ -12,7 +12,7 @@
 <br>
 
 # Build a PockeTerm at the VCFSW
-# June 24, 2023 University of Texas Richardson
+# June 24, SOLD OUT
 <br>
 Come out to the Vintage Computer Festival Southwest (http://vcfsw.org)  and build a PockeTerm II kit in a classroom setting. The cost for the kits are $50 (due at the start of the workshop) and the workshop is free with admission to the VCFSW event. 
 The date of the workshop is Saturday June 24th at 10am. Space is limited so rsvp to vbriel@yahoo.com
