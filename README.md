@@ -2,34 +2,12 @@
 # **PockeTerm II**
 
 ![PT_final trimmed-smaller](https://user-images.githubusercontent.com/121696513/226185154-53f5fab6-533e-4c69-8979-7ae500887c44.jpg)
-
 <br>
-<br>
-
-![vcfsw](https://user-images.githubusercontent.com/121696513/235480835-606152f9-d420-4610-b162-61d646eeeedf.jpg)
-
-<br>
-<br>
-
-# Build a PockeTerm at the VCFSW
-# June 24, SOLD OUT
-<br>
-If you have received an email response from me, your name is on the list. If you want to try and attend, please stop by the workshop and see if there are any openings. Come out to the Vintage Computer Festival Southwest (http://vcfsw.org)  and build a PockeTerm II kit in a classroom setting. The cost for the kits are $50 (due at the start of the workshop) and the workshop is free with admission to the VCFSW event. 
-The date of the workshop is Saturday June 24th at 10am. Space is limited so rsvp to vbriel@yahoo.com
-
-<br>
-<br>
-
 ## What is the PockeTerm? 
 The PockeTerm is a VT-100 compatible terminal in a 3.5" X 2.5" small single board format that utilizes 640 x 480 VGA for Video display and a PS/2 port for the keyboard. Users have the ability to change text colors on a black background as well as other features. This board was produced and sold by Briel Computers from 2007 until production ended in 2016. Now, a newer version is open source to share my work. No more needing a laptop or computer with serial interface and a terminal program. Dedicate a 80x25 VT100 compatible terminal to your system. 
 
 ![image](https://user-images.githubusercontent.com/121696513/235483199-bffefcc8-7a4b-446e-bcb0-2f6c526d24f8.png)
-
-
-# 2023 The PockeTerm II Open Source Project
-
-The PockeTerm II is a refreshed version of my original PockeTerm design from 2007. Using a low cost serial to USB interface in place of one of the serial ports, not only modernized the connection to a PC but gave a reliable power source as well.
-
+<br>
 # Tested on vintage hardware 
 As well as testing on a modern computer system, I have also tested this on my personal Altair 8800. 
 
@@ -91,7 +69,7 @@ Step 1: The Resistors<br>
 Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.
 
 100 ohm - brown black brown (QTY2)<br>
-240 ohm – red yellow brown (QTY 6)<br>
+220 ohm – red yellow brown (QTY 6)<br>
 470 ohm – yellow violet brown (QTY 3)<br>
 1K ohm – brown black red (QTY 1)<br>
 3.3K ohm – orange orange red (QTY 1)<br>
